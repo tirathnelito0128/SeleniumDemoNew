@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+    <test name="GoogleTest">
+         <classes>
+             <!--<class name="hyr.BasicControlsTest"/>-->
+				 <class name="google.GoogleTest"/>
+            <!-- <methods>
+				 <include name="testGoogleSearch"></include>
+				 
+				 
+			 </methods>-->
+			
+			 
+			 
+			 
+            <!-- <class name="login.RegistrationTest"/>-->
+          </classes>
+     </test>
+     
+     
+     
+     
+      <!-- Test -->
+</suite> <!-- Suite -->
